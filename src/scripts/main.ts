@@ -1,5 +1,6 @@
 import { Task } from "./Task";
 import { TaskList } from "./TaskList";
+import "../styles/style.css";
 
 let status="all";
 const taskList= new TaskList();
